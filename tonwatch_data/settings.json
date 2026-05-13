@@ -1,0 +1,6 @@
+{
+  "provider": "tonapi",
+  "tonapi_key": "",
+  "poll_seconds": 20,
+  "min_alert_ton": 0.0
+}
